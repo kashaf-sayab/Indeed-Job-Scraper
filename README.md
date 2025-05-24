@@ -16,7 +16,7 @@ A Python-based web scraper that automatically collects job listings from [Indeed
   - Job type (Full-time, Part-time, etc.)
   - Job description
   - Job link
--  Saves all data to a MySQL database (`job_scraper.jobs` table)
+-  Saves all data to a MySQL database 
 
 ---
 
@@ -25,6 +25,6 @@ A Python-based web scraper that automatically collects job listings from [Indeed
 - Python 3
 - Selenium with `undetected-chromedriver`
 - MySQL for data storage
-- Git for version control
+
 
 
